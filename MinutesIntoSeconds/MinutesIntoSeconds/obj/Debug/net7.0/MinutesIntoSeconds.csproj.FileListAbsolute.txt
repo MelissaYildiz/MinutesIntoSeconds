@@ -1,0 +1,15 @@
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\MinutesIntoSeconds.csproj.AssemblyReference.cache
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\MinutesIntoSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\MinutesIntoSeconds.AssemblyInfoInputs.cache
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\MinutesIntoSeconds.AssemblyInfo.cs
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\MinutesIntoSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\bin\Debug\net7.0\MinutesIntoSeconds.exe
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\bin\Debug\net7.0\MinutesIntoSeconds.deps.json
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\bin\Debug\net7.0\MinutesIntoSeconds.runtimeconfig.json
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\bin\Debug\net7.0\MinutesIntoSeconds.dll
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\bin\Debug\net7.0\MinutesIntoSeconds.pdb
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\MinutesIntoSeconds.dll
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\refint\MinutesIntoSeconds.dll
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\MinutesIntoSeconds.pdb
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\MinutesIntoSeconds.genruntimeconfig.cache
+C:\Users\Mel\OneDrive\Desktop\Coding\MinutesIntoSeconds\MinutesIntoSeconds\obj\Debug\net7.0\ref\MinutesIntoSeconds.dll
